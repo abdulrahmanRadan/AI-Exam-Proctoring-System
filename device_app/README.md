@@ -1,4 +1,3 @@
-
 # AI Exam Proctoring System - Device App
 
 This folder contains the client-side application that monitors students' behavior during the exam. It uses techniques like head pose estimation, eye gaze tracking, and posture analysis to detect suspicious actions.
